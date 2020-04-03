@@ -220,5 +220,5 @@ Push notification payload that need to be handled:
 ## License
 
 Copyright 2019-2020 Bluenumber Foundation
-Licensed under the GNU General Public License v3.0 [(LICENSE)](client/LICENSE)
+Licensed under the GNU General Public License v3.0 [(LICENSE)](LICENSE)
 
